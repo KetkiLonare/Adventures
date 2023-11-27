@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
+  <g id="Layer_2" data-name="Layer 2" transform="translate(-0.447 -0.447)">
+    <g id="plus-circle" transform="translate(0.447 0.447)">
+      <rect id="Rectangle_85" data-name="Rectangle 85" width="17" height="17" fill="#323232" opacity="0"/>
+      <path id="Path_36" data-name="Path 36" d="M9.4,2a7.4,7.4,0,1,0,7.4,7.4A7.4,7.4,0,0,0,9.4,2Zm0,13.317A5.919,5.919,0,1,1,15.317,9.4,5.919,5.919,0,0,1,9.4,15.317Z" transform="translate(-0.99 -0.99)" fill="#323232"/>
+      <path id="Path_37" data-name="Path 37" d="M13.179,10.219H11.7V8.74a.74.74,0,1,0-1.48,0v1.48H8.74a.74.74,0,1,0,0,1.48h1.48v1.48a.74.74,0,1,0,1.48,0V11.7h1.48a.74.74,0,1,0,0-1.48Z" transform="translate(-2.551 -2.551)" fill="#323232"/>
+    </g>
+  </g>
+</svg>

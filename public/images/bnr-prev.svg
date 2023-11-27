@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54" height="56" viewBox="0 0 54 56">
+  <defs>
+    <filter id="Rectangle_30" x="0" y="0" width="54" height="56" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.549"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_4061ae42c2ab44582b7565ffc5a9f3ec" x="12" y="9" width="29" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.549"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_135" data-name="Group 135" transform="translate(-64 -448)">
+    <g transform="matrix(1, 0, 0, 1, 64, 448)" filter="url(#Rectangle_30)">
+      <rect id="Rectangle_30-2" data-name="Rectangle 30" width="36" height="38" rx="5" transform="translate(9 6)" fill="#fff" opacity="0.4"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 64, 448)" filter="url(#_4061ae42c2ab44582b7565ffc5a9f3ec)">
+      <path id="_4061ae42c2ab44582b7565ffc5a9f3ec-2" data-name="4061ae42c2ab44582b7565ffc5a9f3ec" d="M10.634.292a1.063,1.063,0,0,0-1.464,0L.607,8.556a1.95,1.95,0,0,0,0,2.827l8.625,8.325a1.065,1.065,0,0,0,1.454.01.975.975,0,0,0,.01-1.425L2.8,10.676a.975.975,0,0,1,0-1.414l7.83-7.557a.974.974,0,0,0,0-1.413" transform="translate(21 15)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
